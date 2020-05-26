@@ -11,6 +11,7 @@ public class ArrayDemo {
 //		
 //		System.out.println(arr[1]);
 		
+		//This is a new comment
 		int arr[] = {10, 20, 30, 40, 50};
 		
 		try {
