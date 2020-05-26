@@ -11,7 +11,7 @@ public class ArrayDemo {
 //		
 //		System.out.println(arr[1]);
 		
-		//This is a new comment
+		
 		int arr[] = {10, 20, 30, 40, 50};
 		
 		try {
@@ -21,7 +21,6 @@ public class ArrayDemo {
 			System.out.println(e.getMessage());
 			System.out.println("Please access within scope of array");
 		}
-		
 		
 //		System.out.println(arr[0]);
 		
