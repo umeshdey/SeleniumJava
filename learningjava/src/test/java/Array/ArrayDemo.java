@@ -11,7 +11,7 @@ public class ArrayDemo {
 //		
 //		System.out.println(arr[1]);
 		
-		int z = 0;
+		
 		int arr[] = {10, 20, 30, 40, 50};
 		
 		try {
@@ -32,6 +32,8 @@ public class ArrayDemo {
 		for(int element : arr) {
 			System.out.println(element);
 		}
+		System.out.println("")
+		
 	}
 
 }
